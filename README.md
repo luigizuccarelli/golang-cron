@@ -1,2 +1,2 @@
-# golang-microservice-cronsftp
-A simple microservice that downloads a file from an sftp server using cron
+# golang-microservice-cron job
+A simple microservice that calls a url that updates myportfolio prices via a cron
